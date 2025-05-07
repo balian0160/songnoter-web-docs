@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Vytvoření nového projektu
 
-Documents are **groups of pages** connected through:
+Pro vytvoření nového projektu klikněte na tlačítko **plus** na hlavní stránce aplikace.
 
 - a **sidebar**
 - **previous/next navigation**

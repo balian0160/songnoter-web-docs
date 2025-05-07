@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Song Noter iOS aplikace",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Rozcestník krátkých návodů pro iOS aplikaci Song Noter"
   }
 }

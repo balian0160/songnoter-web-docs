@@ -1,12 +1,12 @@
 ---
-slug: test-lang2
-title: Test Blog Post Lang 2
-authors: [slorber]
+slug: sn-initial-idea
+title: Song Noter - Initial Idea
+authors: [tomb]
 tags: [hola, docusaurus]
 lang: "en"
 ---
 
-## This is English 2
+## How did i get the idea of creating iOS app for musicians?
 
 <!-- truncate -->
 

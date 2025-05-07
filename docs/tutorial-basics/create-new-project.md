@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Create New Project
 
-Documents are **groups of pages** connected through:
+For creating a new project, click on **plus** button on the main page of the application.
 
 - a **sidebar**
 - **previous/next navigation**
