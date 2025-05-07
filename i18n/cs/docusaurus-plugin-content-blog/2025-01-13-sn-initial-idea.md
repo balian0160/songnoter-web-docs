@@ -1,12 +1,12 @@
 ---
-slug: test-lang
-title: Nadpis česky
-authors: [slorber]
+slug: sn-initial-idea
+title: Song Noter - původní nápad
+authors: [tomb]
 tags: [hola, docusaurus]
 lang: "cs"
 ---
 
-## Tohle je Čeština
+## Jak jsem dostal nápad na zhotovení aplikace pro hudebníky?
 
 <!-- truncate -->
 

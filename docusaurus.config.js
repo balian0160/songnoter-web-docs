@@ -11,7 +11,7 @@ import path from 'path'
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Song Noter',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Music ideas in your pocket',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'balian0160', // Usually your GitHub org/user name.
+  projectName: 'songnoter-web-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -117,11 +117,6 @@ const config = {
             label: 'Blog', 
             position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right', // You can change the position based on your requirements
           },
@@ -175,7 +170,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Song Noter. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

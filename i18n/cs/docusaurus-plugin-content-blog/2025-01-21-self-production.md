@@ -1,12 +1,12 @@
 ---
-slug: test-lang
-title: Test Blog Post Lang
-authors: [slorber]
+slug: self-production
+title: Proč je vlastní produkce hudebního alba nelehký úkol?
+authors: [tomb]
 tags: [hola, docusaurus]
-lang: "en"
+lang: "cs"
 ---
 
-## This is English
+## Něco česky
 
 <!-- truncate -->
 
